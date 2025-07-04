@@ -14,7 +14,7 @@ A simple weather application built with HTML, CSS, and JavaScript that allows us
 
 ![Homepage](/assets/homepage.png) _Homepage with search functionality_
 
-![Search Results](/assets/search.png) _Weather information display_
+![Search Results](/assets/search_page.png) _Weather information display_
 
 ## 🛠️ Technologies Used
 
